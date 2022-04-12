@@ -33,3 +33,4 @@ React is a JavaScript library for building user interfaces. It is one the most w
 
 # Code Challenge
 Critical Mass code challenge - https://codesandbox.io/s/2021-internship-exercise-menu-forked-rtpqb8?file=/src/index.js
+Please review the output in a separate window 
