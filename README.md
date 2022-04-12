@@ -17,7 +17,11 @@ I made this project during one of course at Douglas College. This was a personal
 Repository Link - https://github.com/ParteekSaini/NutriGuide
 
 # Inspiration
+This section is to explain projects or work that recently inspired me.
 
+<h2>Self Updating Google Maps</h2>
+I came across self updating feature of google maps recently and did not realized up until that google maps updated itself using advancements in AI and imagery.
+Over the past few years, businesses have experienced a lot of change — including constantly updating operating hours based on changing pandemic-related restrictions. To keep up with this pace of change, google developed a machine learning model that automatically identifies if business hours are likely wrong, then instantly updates them with AI-generated predictions. This algorithm analyze the other nearby shops, information from a spefific shop's website, and its street view images to specifically look for business hour signs to determine the most accurate business hour prediction. Simultaneously, in Argentina, Australia, Chile, France, Japan, Mexico, New Zealand, Peru, and the United States, google also use Duplex conversational technology(An AI System for Accomplishing Real-World Tasks Over the Phone) to call businesses and ask for their hours directly. Google is also using AI to bring the most up-to-date speed limit information in a speific town. With the help of third-party imagery partners that already gather roadway imagery to improve delivery routes, google can request a photo of the specific stretch of road that also includes a speed limit sign. If the partner has this photo available, google then use a combination of AI and help from operations team to identify the sign in the image, extract the new speed limit information, and update Google Maps. This is highly effective use of AI and imagery to solve real world problems, therfore,I was highly inspired from this project of Google.
 
 
 # Focus
